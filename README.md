@@ -1,0 +1,133 @@
+### Things to simulate:
+- foraging / food seeking behaviour
+- Reproduction & Lifecycles
+- Terrirory and travel ranges
+- Social Interactions
+- Predator-Prey Dynamics
+- Environmental Interactions (environmental events, seasons, etc...)
+- Resource (re-)generation
+
+### Generate Forest
+- Soil Quality
+- Moisture Content
+
+### Growing resources:
+- Grass
+- Flowers
+- Aquatic Plants
+- Trees
+- Nuts & Seeds
+- Shrubs
+- Berries
+- Roots
+- Insects
+- Fish
+- Fungi
+- Fruit
+- Carrion
+
+### Animals to simulate:
+- #### Moose
+  - Eats:
+    - Flowers
+    - Aquatic plants
+    - Trees
+    - Shrubs
+  - Predators:
+    - Wolves
+    - Bears   
+- #### Deer
+  - Eats:
+    - Flowers
+    - Grass
+    - Shrubs
+    - Trees
+    - Fungi
+    - Fruit 
+  - Predators:
+    - Wolves
+    - Bears 
+- #### Hare
+  - Eats:
+    - Shrubs
+    - Trees
+    - Berries
+    - Carrion
+    - Flowers
+    - Grass
+  - Predators:
+    - Coyote
+    - Wolves
+    - Hawks
+- #### Squirrel
+  - Eats:
+    - Nuts & Seeds
+    - Fungi
+    - Roots
+    - Berries
+    - Insects
+  - Predators:
+    - Hawks
+    - Foxes 
+- #### Wolf
+  - Eats:
+    - Moose
+    - Deer
+    - Foxes
+  - Predators:
+    - None  
+- #### Fox
+  - Eats:
+    - Hare
+    - Ducks
+    - Mice
+    - Pigeon
+    - Berries
+    - Squirrel
+    - Carrion
+    - Insects
+    - Roots
+    - Fruit 
+  - Predators:
+    - Wolves
+    - Coyotes (competitors / aggresive) 
+- #### Hawk
+  - Eats:
+    - Pigeons
+    - Squirrels
+    - Hare
+    - Mice 
+  - Predators:
+    - None 
+- #### Bear
+  - Eats:
+    - Fish
+    - Roots
+    - Moose
+    - Deer
+    - Flowers
+    - Grass
+    - Carrion
+    - Berries
+    - Fruit
+    - Nuts & Seeds
+  - Predators:
+    - None  
+- #### Pigeon
+  - Eats:
+    - Insects
+    - Berries
+    - Fungi
+    - Fruit
+    - Nuts & Seeds  
+  - Predators:
+    - Hawks 
+- #### Coyotes
+  - Eats:
+  - Predators: 
+- #### Mice
+  - Eats:
+  - Predators: 
+- #### Ducks
+  - Eats:
+  - Predators: 
